@@ -45,14 +45,14 @@ https://www.when2meet.com/?35462773-Ac5IZ
 # 파일 및 폴더 구조
 
 ### 프로그래머스
-* `Programmers/suyeon/폴더명/문제명.py`
-* `Programmers/eugene/폴더명/문제명.py`
-* `Programmers/jiwoo/폴더명/문제명.py`
+* `Programmers/이름/폴더명/문제명.py`
+* `Programmers/이름/폴더명/문제명.py`
+* `Programmers/이름/폴더명/문제명.py`
 
 ### 백준
-* `Baekjoon/suyeon/폴더명/문제번호_문제명.py`
-* `Baekjoon/eugene/폴더명/문제번호_문제명.py`
-* `Baekjoon/jiwoo/폴더명/문제번호_문제명.py`
+* `Baekjoon/이름/폴더명/문제번호_문제명.py`
+* `Baekjoon/이름/폴더명/문제번호_문제명.py`
+* `Baekjoon/이름/폴더명/문제번호_문제명.py`
 
 # 일정표
 
