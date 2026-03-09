@@ -56,11 +56,12 @@ https://www.when2meet.com/?35462773-Ac5IZ
 
 # 일정표
 
-### 1차 : 코딩테스트 고득점 Kit (프로그래머스)
+### 1주차 : Git & Github 
+### 2주차 : 2025카카오 하반기 1 (프로그래머스)
 
 | 주차 | 폴더명 | 문제 1 | 문제 2 | 문제 3 | 진행 현황 |
 | :-- | :--- | :--- | :--- | :--- | :--- |
-| 1주차 | greedy | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 진행 완료 |
-| 2주차 | brute_force | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 진행 완료 |
-| 3주차 | stack_queue | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 진행 완료 |
-| 4주차 | dfs_bfs | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 진행 완료 |
+| 2주차 |  | [노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)) | | | 진행 예정 |
+| 3주차 |  | |  |  |  |
+| 4주차 |  | | | |  |
+| 5주차 |  |  |  |  |  |
