@@ -53,3 +53,20 @@ https://www.when2meet.com/?35462773-Ac5IZ
 * `Baekjoon/suyeon/폴더명/문제번호_문제명.py`
 * `Baekjoon/eugene/폴더명/문제번호_문제명.py`
 * `Baekjoon/jiwoo/폴더명/문제번호_문제명.py`
+
+# 일정표
+
+### 1차 : 코딩테스트 고득점 Kit (프로그래머스)
+
+| 주차 | 폴더명 | 문제 1 | 문제 2 | 문제 3 | 진행 현황 |
+| :-- | :--- | :--- | :--- | :--- | :--- |
+| 1주차 | greedy | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 진행 완료 |
+| 2주차 | brute_force | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 진행 완료 |
+| 3주차 | stack_queue | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 진행 완료 |
+| 4주차 | dfs_bfs | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 진행 완료 |
+| 5주차 | hash | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 진행 예정 |
+| 6주차 | sort | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | 진행 예정 |
+| 7주차 | binary_search | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | | 진행 예정 |
+| 8주차 | dynamic_programming | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 진행 예정 |
+| 9주차 | heap | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 진행 예정 |
+| 10주차 | graph | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190) | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 진행 예정 |
