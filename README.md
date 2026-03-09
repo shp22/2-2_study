@@ -1,6 +1,9 @@
 # 2-2_study
 Rokey boot camp 2반 2조 스터디 Github
 
+스터디 가능 시간대
+https://www.when2meet.com/?35462773-Ac5IZ
+
 # 스터디 규칙
 
 ## 문제 풀이
@@ -28,3 +31,25 @@ Rokey boot camp 2반 2조 스터디 Github
 
 - 만약 주차에 해당하는 문제 풀이가 미완료 시, 회의 당일에 직접 문제 풀이 진행해야 함.
 - 끝날 때까지 회의는 끝나지 않음..(열심히 하자..다른 사람을 생각하며)
+
+# PR 규칙 및 Commit Message 규칙
+
+### Pull Request
+* `[Programmers-폴더명] 이름`
+* `[Baekjoon-폴더명] 이름`
+
+### Commit Message
+* `[Programmers-문제번호] 문제명`
+* `[Baekjoon-문제번호] 문제명`
+
+# 파일 및 폴더 구조
+
+### 프로그래머스
+* `Programmers/suyeon/폴더명/문제명.py`
+* `Programmers/eugene/폴더명/문제명.py`
+* `Programmers/jiwoo/폴더명/문제명.py`
+
+### 백준
+* `Baekjoon/suyeon/폴더명/문제번호_문제명.py`
+* `Baekjoon/eugene/폴더명/문제번호_문제명.py`
+* `Baekjoon/jiwoo/폴더명/문제번호_문제명.py`
