@@ -61,7 +61,7 @@ https://www.when2meet.com/?35462773-Ac5IZ
 
 | 주차 | 폴더명 | 문제 1 | 문제 2 | 문제 3 | 진행 현황 |
 | :-- | :--- | :--- | :--- | :--- | :--- |
-| 2주차 |  | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) |[노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)| [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)| | 진행 예정 |
+| 2주차 | week2 | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) |[노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)| [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)| 진행 예정 |
 | 3주차 |  | |  |  |  |
 | 4주차 |  | | | |  |
 | 5주차 |  |  |  |  |  |
