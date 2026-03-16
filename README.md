@@ -65,6 +65,6 @@ https://drive.google.com/drive/u/0/folders/1-I03IdNSdJOv1lgbtRlgnflN3lj8FZr4?pli
 | 주차 | 폴더명 | 문제 1 | 문제 2 | 문제 3 | 진행 현황 |
 | :-- | :--- | :--- | :--- | :--- | :--- |
 | 2주차 | week2 | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) |[노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)| [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)| 진행 완료 |
-| 3주차 | week3 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)) |[정수 나선형 배치](https://school.programmers.co.kr/learn/courses/30/lessons/181832) |[가장 가까운 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  | 진행 예정 |
+| 3주차 | week3 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) |[정수 나선형 배치](https://school.programmers.co.kr/learn/courses/30/lessons/181832) |[가장 가까운 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  | 진행 예정 |
 | 4주차 |  | | | |  |
 | 5주차 |  |  |  |  |  |
