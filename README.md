@@ -4,6 +4,9 @@ Rokey boot camp 2반 2조 스터디 Github
 스터디 가능 시간대
 https://www.when2meet.com/?35462773-Ac5IZ
 
+구글 드라이브 업로드
+https://drive.google.com/drive/u/0/folders/1-I03IdNSdJOv1lgbtRlgnflN3lj8FZr4?pli=1
+
 # 스터디 규칙
 
 ## 문제 풀이
