@@ -1,0 +1,12 @@
+def solution(s):
+    result = []
+    last = {}
+
+    for i, c in enumerate(s):
+        if c in last:
+            result.append(i - last[c])
+        else:
+            result.append(-1)
+        last[c] = i
+
+    return result
