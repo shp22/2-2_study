@@ -1,0 +1,20 @@
+def solution(schedules, timelogs, startday):
+    success = 0
+    for i in range(len(schedules)):
+        h = schedules[i] // 100
+        m = schedules[i] % 100 + 10
+        if m >= 60:
+            h += 1
+            m -= 60
+        deadline = h * 100 + m
+        
+        fail = False
+        for j in range(7):
+            today = (startday - 1 + j) % 7 + 1
+            if today == 6 or today == 7:
+                continue
+            if timelogs[i][j] > deadline:
+                fail = True
+                break
+        
+        if fail == False:
