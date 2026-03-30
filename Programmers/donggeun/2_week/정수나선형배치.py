@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def solution(n):
     answer = [[0] * n for _ in range(n)]
     
@@ -32,12 +31,3 @@ def solution(n):
         col_start += 1
             
     return answer
-=======
-def solution(n):
-    answer = [[0] * n for _ in range(n)]
-    
-    num = 1
-    row_start, row_end = 0, n - 1
-    col_start, col_end = 0, n - 1
-    
->>>>>>> 59d5338ae07849a0a34935d6dc5686fb109f9689
