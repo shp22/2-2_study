@@ -66,5 +66,5 @@ https://drive.google.com/drive/u/0/folders/1-I03IdNSdJOv1lgbtRlgnflN3lj8FZr4?pli
 | :-- | :--- | :--- | :--- | :--- | :--- |
 | 2주차 | week2 | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) |[노란불 신호등](https://school.programmers.co.kr/learn/courses/30/lessons/468371)| [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)| 진행 완료 |
 | 3주차 | week3 | [정수 나선형 배치](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [가장 가까운 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  | 진행 완료 |
-| 4주차 | week4 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) |[스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | 진행 예정 |
-| 5주차 |  |  |  |  |  |
+| 4주차 | week4 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) |[스포 방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | 진행 완료 |
+| 5주차 | week5  | [PCCE 기출문제 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | 진행 예정 |
