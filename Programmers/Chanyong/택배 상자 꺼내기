@@ -1,0 +1,21 @@
+def solution(n, w, num):
+    list_raw = []
+    list_col = []
+
+    for i in range(1, n+1):
+        cal_raw = (i-1) // w
+        cal_col = (i-1) % w
+        list_raw.append(cal_raw)
+        if cal_raw % 2 == 0:
+            list_col.append(cal_col)
+        else:
+            list_col.append(w - 1 - cal_col)
+
+    target_raw = list_raw[num-1]
+    target_col = list_col[num-1]
+
+    answer = 0
+    for k in range(1, n+1):
+        if list_col[k-1] == target_col and list_raw[k-1] >= target_raw:
+            answer += 1
+    return answer

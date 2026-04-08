@@ -1,0 +1,9 @@
+def solution(s, skip, index):
+    answer = ''
+    alphabet = [n for n in 'abcdefghijklmnopqrstuvwxyz' if n not in skip]
+    
+    for n in s:
+        n = alphabet.index(n)
+        answer += alphabet[(n + index) % len(alphabet)]
+    
+    return answer
