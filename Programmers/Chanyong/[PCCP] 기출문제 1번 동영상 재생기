@@ -1,0 +1,29 @@
+def solution(video_len, pos, op_start, op_end, commands):
+    def to_sec(t):
+        mm_ss = t.split(":")
+        return int(mm_ss[0]) * 60 + int(mm_ss[1])
+    
+    def to_str(s):
+        return f"{s//60:02d}:{s%60:02d}"
+    
+    def to_skip(pos, op_start, op_end):
+        if op_start <= pos <= op_end:
+            pos = op_end
+        return pos
+    
+    video_len = to_sec(video_len)
+    pos       = to_sec(pos)
+    op_start  = to_sec(op_start)
+    op_end    = to_sec(op_end)
+    
+    pos = to_skip(pos, op_start, op_end)
+    
+    for command in commands:
+        if command == "prev":
+            pos = max(0, pos - 10)
+        elif command == "next":
+            pos = min(video_len, pos + 10)
+        
+        pos = to_skip(pos, op_start, op_end)
+    
+    return to_str(pos)
