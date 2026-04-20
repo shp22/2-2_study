@@ -1,11 +1,17 @@
 def solution(players, callings):
     answer = players.copy()
+    
+    rank_dict = {player: i for i, player in enumerate(players)}
+    
     for call in callings:
-        i = answer.index(call)
-        i -= 1
+        # O(1)에 위치 찾기
+        i = rank_dict[call]
         
-        unit = answer[i+1]  # i+1 인덱스의 값
-        answer[i+1] = answer[i]
+        unit = answer[i-1]
+        answer[i-1] = answer[i]
         answer[i] = unit
         
+        rank_dict[call] = i - 1
+        rank_dict[unit] = i
+    
     return answer
